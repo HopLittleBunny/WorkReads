@@ -1,74 +1,131 @@
-# WorkReads – Help & Support
+<div align="center">
 
-Welcome to **WorkReads**.
+# WorkReads  
+### Only what matters, just for you.
 
-WorkReads is a mobile app designed to help professionals discover high-quality, relevant reading that supports career growth and better decision-making. The app is currently focused on HR, Change, and the Future of Work, with plans to expand to other professional domains.
+**Signal, not noise — ranked reading intelligence for modern professionals.**
 
-Content is thoughtfully curated and personalised using AI, so you can focus on what truly matters.
+<p>
+  <a href="#how-it-works"><strong>How it works</strong></a> ·
+  <a href="#the-three-metrics"><strong>The 3 metrics</strong></a> ·
+  <a href="#privacy--data"><strong>Privacy</strong></a> ·
+  <a href="privacy.md"><strong>Privacy Policy</strong></a> ·
+  <a href="#support"><strong>Support</strong></a>
+</p>
 
----
+<!-- Optional: replace # with real links -->
+<p>
+  <a href="#"><strong>Download iOS</strong></a> ·
+  <a href="#"><strong>Join Waitlist</strong></a>
+</p>
 
-## Contact Support
-
-If you need help, have feedback, or want to report an issue, you can reach us at:
-
-📧 **Email:** founder@hoplittlebunny.com  
-⏱ We usually respond within **24–48 hours**.
-
----
-
-## How WorkReads Works
-
-- Discover curated articles related to work, leadership, and professional growth through an intuitive, swipeable card experience  
-- Swipe right to save articles, swipe left to dismiss, or highlight must-reads for later  
-- Browse and explore content across topics such as HR, Change, AI, Leadership, Strategy, Culture, Analytics, Technology, and Talent  
-- Filter articles by reading time:  
-  - Quick Reads (around 5 minutes)  
-  - Deep Dives (10–20 minutes)  
-  - Strategy reads (20+ minutes)  
-- Save articles into collections and track your reading progress  
-- Receive personalised recommendations based on your role, interests, and reading preferences  
+</div>
 
 ---
 
-## Frequently Asked Questions
+## What is WorkReads?
 
-### Do I need an account?
-An account is not required to use the core features of WorkReads. Preferences, saved articles, and reading progress are stored locally on your device. Optional account creation may be available in future updates to enable syncing across devices.
+WorkReads is a **professional signal engine** that helps you make better decisions in a noisy information environment.
 
----
+Instead of amplifying popularity, WorkReads evaluates each insight using three structured metrics — then delivers a ranked, distilled feed designed to improve **decision quality per minute spent reading**.
 
-### Is WorkReads free?
-Yes, WorkReads is currently free to use.
-
----
-
-### How are recommendations generated?
-Recommendations are based on factors such as your selected role, areas of interest, preferred content depth, content quality, recency, source credibility, and overall relevance. AI is used to assist with personalisation and summarisation.
+WorkReads is not a news app.  
+It is not a social feed.  
+It is **reading intelligence**.
 
 ---
 
-### What data is stored on my device?
-Depending on how you use the app, this may include:
-- Role and interest preferences  
-- Saved or dismissed articles  
-- Reading progress  
-- Custom collections  
-- Content preferences  
+## The three metrics
+
+WorkReads scores every item using:
+
+- **Quality** — credibility, clarity, and strength of reasoning  
+- **Relevance** — fit for your role, function, and reading signals  
+- **Freshness** — timeliness and strategic usefulness *right now*
+
+These signals drive what appears in your feed — and in what order.
 
 ---
 
-### How do I delete my data?
-You can request deletion of any associated data by contacting us at **founder@hoplittlebunny.com**.  
-Local app data can also be removed by uninstalling the app from your device.
+## How it works
+
+1. **Rank**  
+   Every item is evaluated across **Quality · Relevance · Freshness** before it appears.
+
+2. **Distill**  
+   You get an **Intelligence Brief** — a concise summary designed for clarity and action.
+
+3. **Personalize**  
+   Your profile (role, function, country) and interactions (saves, ratings, follows) continuously refine what you see.
+
+4. **Follow trusted people**  
+   Follow leaders and authors to build a signal-rich professional knowledge network.
+
+5. **Save & reflect**  
+   Save items to your Library and capture takeaways in your Journal.
 
 ---
 
-## Privacy Policy
+## Content & sources
 
-You can read our full Privacy Policy here:  
-[Privacy Policy](privacy.md)
+WorkReads surfaces **publicly available** professional articles and insights.
+
+- We **do not** republish full copyrighted articles.
+- We provide a **direct link to the original source** so you can read the full piece.
+- Our brief is a **transformative summary**, not a substitute for the source.
 
 ---
 
-Thank you for using WorkReads. Your feedback helps shape how the app evolves.
+## Privacy & data
+
+An account is used to personalize relevance scoring.
+
+WorkReads may store:
+- Basic profile (e.g., name, role; organization optional)
+- Reading signals (e.g., saves, ratings, follows, reading activity)
+- Generated outputs (e.g., brief summaries + metadata)
+
+We **do not** sell personal data.  
+We **do not** run ads.  
+We **do not** track you across other apps.
+
+To request account/data deletion:  
+📧 **founder@hoplittlebunny.com**
+
+---
+
+## AI usage
+
+WorkReads uses AI to:
+- Generate **Intelligence Briefs**
+- Improve clarity and structure
+- Support relevance modeling
+
+AI outputs are **transformations** of publicly available information.  
+Full sources remain accessible via external links.
+
+---
+
+## FAQ
+
+**Is WorkReads free?**  
+Yes — currently free to use.
+
+**Does WorkReads provide financial/legal/investment advice?**  
+No. WorkReads is a reading and decision-support tool, not professional advice.
+
+---
+
+## Support
+
+📧 **founder@hoplittlebunny.com**  
+⏱ Typical response time: 24–48 hours
+
+---
+
+<div align="center">
+
+**WorkReads**  
+Signal, not noise.
+
+</div>
