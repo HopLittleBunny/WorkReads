@@ -1,141 +1,194 @@
-# Privacy Policy – WorkReads
+Privacy Policy – WorkReads
 
-**Last updated:** January 2026
+Last updated: January 2026
 
-WorkReads (“we”, “our”, or “us”) respects your privacy. This Privacy Policy explains how information is collected, used, and protected when you use the WorkReads mobile application.
+WorkReads (“WorkReads”, “we”, “our”, or “us”) is a professional reading intelligence application designed to help professionals access ranked and distilled business insights.
 
----
+This Privacy Policy explains what information we collect, how we use it, and how it is protected when you use the WorkReads mobile application.
 
-## 1. Information We Collect
+1. Information We Collect
+A. Account & Authentication
 
-### Information You Provide
-Depending on how you use the app, we may collect:
-- Role and interest preferences selected during onboarding
-- Articles you save, dismiss, or interact with
-- Collections you create to organise saved content
-- Feedback or messages you send to support
-- Your email address if you contact us directly or choose to create an account
+WorkReads supports Sign in with Apple and Sign in with Google.
 
-Providing this information is optional unless required for specific features.
+When you create an account, we may receive:
 
----
+Email address
 
-### Automatically Collected Information
-We may automatically collect limited, non-identifiable information, including:
-- App usage data (such as features used and content viewed)
-- Reading progress and time spent in the app
-- Device and app performance information (such as app version and operating system)
+Name (if provided by the authentication provider)
 
-This information is used to improve app performance and user experience.
+If you use Apple’s private relay feature, your email may be anonymized.
 
----
+Passwords are not stored by WorkReads.
 
-## 2. How We Use Information
+B. Profile Information
+
+To personalize your intelligence stream, you may provide:
+
+Professional role
+
+Organization (optional)
+
+Country (optional)
+
+This information is used solely to improve content relevance and ranking accuracy.
+
+C. Interaction & Usage Signals
+
+To power personalization and ranking, WorkReads stores:
+
+Swipe left (skip) signals
+
+Swipe right (save) signals
+
+Swipe-up opens
+
+Saves and ratings
+
+Follows
+
+Reading activity patterns
+
+Private notes created within the app
+
+These signals are linked to your account and are used only to refine relevance and improve system performance.
+
+D. Content Stored by WorkReads
+
+WorkReads stores:
+
+AI-generated Intelligence Brief summaries
+
+Associated metadata (title, author, tags, source link)
+
+WorkReads does not store or redistribute full third-party articles as a substitute for the original source.
+
+Users are provided with a direct external link to read the full article from the original publisher.
+
+E. Diagnostics & Technical Information
+
+We may collect limited technical information such as:
+
+App version
+
+Device type
+
+Operating system version
+
+Crash and performance diagnostics
+
+This information is used only to maintain app stability and reliability.
+
+WorkReads does not store IP addresses for tracking purposes.
+
+2. How We Use Information
 
 We use collected information to:
-- Provide and maintain core app functionality
-- Personalise content recommendations based on your preferences
-- Track reading progress and engagement
-- Improve app performance, stability, and reliability
-- Respond to support requests and user feedback
 
----
+Provide core app functionality
 
-## 3. Local Data Storage
+Rank content using Quality, Relevance, and Freshness signals
 
-Most user data is stored locally on your device using standard mobile storage technologies. This may include:
-- Reading preferences
-- Saved and dismissed articles
-- Reading progress and collections
-- Content interaction history
+Personalize your feed
 
-Local data is not transmitted to our servers unless you explicitly create an account or use features that require syncing or communication with backend services.
+Improve product performance and stability
 
----
+Generate Intelligence Brief summaries
 
-## 4. Third-Party Services
+Respond to support requests
 
-WorkReads may use trusted third-party services to support app functionality, including:
-- **Supabase** for backend services such as content delivery and authentication
-- **Expo / React Native** for app development and deployment infrastructure
+Protect the integrity and security of the platform
 
-These services process data in accordance with their own privacy policies and applicable laws.
+WorkReads does not use personal data for advertising.
 
----
+3. Artificial Intelligence Usage
 
-## 5. AI & Content Recommendations
+WorkReads uses third-party AI services (such as Google Gemini) to:
 
-WorkReads uses algorithmic and AI-assisted systems to recommend and summarise content based on:
-- Your selected role and interest areas
-- Content metadata (such as topic, length, and source)
-- General engagement signals
+Generate structured Intelligence Brief summaries
 
-Personal identity information is not shared with external AI providers.  
-We do not sell user data or use it to train public AI models.
+Improve content clarity
 
-AI-generated content is provided for informational purposes only.
+Support relevance modeling
 
----
+When AI services are used, content text and contextual relevance signals may be processed.
 
-## 6. Data Sharing
+Personal identity information (such as your name or email) is not intentionally shared with AI providers for summarization purposes.
+
+WorkReads does not sell data and does not use personal data to train public AI models.
+
+4. Infrastructure & Service Providers
+
+WorkReads uses trusted service providers to operate the application, including:
+
+Supabase – secure database and backend infrastructure
+
+Expo – mobile app infrastructure and deployment
+
+Google Gemini AI – content summarization services
+
+These providers process data only as necessary to deliver core app functionality.
+
+5. Data Sharing
 
 We do not sell personal data.
 
-Information may be shared only:
-- With trusted service providers necessary to operate the app
-- When required by law or legal process
+We may share limited information only:
 
----
+With infrastructure providers necessary to operate the app
 
-## 7. Data Retention
+When required by law or valid legal process
 
-- **Local data:** Retained on your device until deleted or the app is uninstalled  
-- **Account-related data (if applicable):** Retained until you request deletion  
-- **Operational or analytics data:** Retained only as long as necessary for app improvement and maintenance  
+To protect user safety or platform integrity
 
-You may request deletion of any associated data at any time by contacting us.
+WorkReads does not share data for advertising purposes.
 
-📧 **Email:** founder@hoplittlebunny.com
+6. Data Retention
 
----
+We retain data:
 
-## 8. Tracking
+For as long as your account remains active
 
-WorkReads does not track users across other companies’ apps or websites.
+As necessary to provide functionality
 
----
+As required to comply with legal obligations
 
-## 9. Your Rights
+You may request deletion of your account and associated data at any time by contacting:
+
+📧 founder@hoplittlebunny.com
+
+7. Tracking
+
+WorkReads does not track users across other companies’ apps or websites for advertising purposes.
+
+8. Your Rights
 
 Depending on your location, you may have the right to:
-- Access your personal information
-- Request correction of inaccurate data
-- Request deletion of your data
-- Clear or reset personalisation preferences within the app
 
----
+Access your personal information
 
-## 10. Security
+Request correction of inaccurate data
 
-We apply reasonable technical and organisational safeguards to protect your information, including secure local storage for sensitive data where applicable. However, no method of storage or transmission is completely secure.
+Request deletion of your data
 
----
+Withdraw consent where applicable
 
-## 11. Children’s Privacy
+To exercise these rights, contact:
 
-WorkReads is not intended for children under the age of 13.  
+📧 founder@hoplittlebunny.com
+
+9. Children’s Privacy
+
+WorkReads is not intended for individuals under the age of 13.
+
 We do not knowingly collect personal information from children.
 
----
+10. Changes to This Policy
 
-## 12. Changes to This Policy
+We may update this Privacy Policy from time to time. Updates will be posted with a revised “Last updated” date.
 
-This Privacy Policy may be updated from time to time. Any changes will be posted on this page with an updated revision date.
+11. Contact Us
 
----
+If you have questions about this Privacy Policy:
 
-## 13. Contact Us
-
-If you have questions or concerns about this Privacy Policy, please contact:
-
-📧 **founder@hoplittlebunny.com**
+📧 founder@hoplittlebunny.com
