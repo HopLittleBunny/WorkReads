@@ -21,111 +21,109 @@
 
 </div>
 
----
+What is WorkReads?
 
-## What is WorkReads?
+WorkReads is a professional signal engine built for decision-makers navigating information overload.
 
-WorkReads is a **professional signal engine** that helps you make better decisions in a noisy information environment.
+Instead of amplifying popularity, WorkReads evaluates each insight using structured metrics — then delivers a ranked, distilled feed designed to improve decision quality per minute spent reading.
 
-Instead of amplifying popularity, WorkReads evaluates each insight using three structured metrics — then delivers a ranked, distilled feed designed to improve **decision quality per minute spent reading**.
+WorkReads is not a news app.
+It is not a social feed.
+It is reading intelligence.
 
-WorkReads is not a news app.  
-It is not a social feed.  
-It is **reading intelligence**.
+The Three Metrics
 
----
+Every item is evaluated using:
 
-## The three metrics
+Quality — credibility, clarity, and strength of reasoning
+Relevance — fit for your role, function, and interaction signals
+Freshness — timeliness and strategic usefulness right now
 
-WorkReads scores every item using:
+These signals determine what appears in your feed — and in what order.
 
-- **Quality** — credibility, clarity, and strength of reasoning  
-- **Relevance** — fit for your role, function, and reading signals  
-- **Freshness** — timeliness and strategic usefulness *right now*
+How It Works
+Rank
 
-These signals drive what appears in your feed — and in what order.
+Each item is evaluated across Quality · Relevance · Freshness before it appears.
 
----
+Distill
 
-## How it works
+You receive an Intelligence Brief — a concise, structured summary designed for clarity and action.
 
-1. **Rank**  
-   Every item is evaluated across **Quality · Relevance · Freshness** before it appears.
+Personalize
 
-2. **Distill**  
-   You get an **Intelligence Brief** — a concise summary designed for clarity and action.
+Your profile (role, function, country) and interaction signals (saves, ratings, follows, time spent reading) continuously refine what you see.
 
-3. **Personalize**  
-   Your profile (role, function, country) and interactions (saves, ratings, follows) continuously refine what you see.
+Follow trusted people
 
-4. **Follow trusted people**  
-   Follow leaders and authors to build a signal-rich professional knowledge network.
+Follow leaders and authors to build a signal-rich professional knowledge network.
 
-5. **Save & reflect**  
-   Save items to your Library and capture takeaways in your Journal.
+Save & reflect
 
----
+Save items to your Library and capture takeaways in your Journal.
 
-## Content & sources
+Content & Sources
 
-WorkReads surfaces **publicly available** professional articles and insights.
+WorkReads surfaces publicly available professional articles and insights.
 
-- We **do not** republish full copyrighted articles.
-- We provide a **direct link to the original source** so you can read the full piece.
-- Our brief is a **transformative summary**, not a substitute for the source.
+We do not republish full copyrighted articles.
 
----
+We provide a direct external link to the original publisher so you can read the full source.
 
-## Privacy & data
+Intelligence Briefs are transformative summaries designed to support faster comprehension — not substitutes for original content.
+
+Privacy & Data
 
 An account is used to personalize relevance scoring.
 
 WorkReads may store:
-- Basic profile (e.g., name, role; organization optional)
-- Reading signals (e.g., saves, ratings, follows, reading activity)
-- Generated outputs (e.g., brief summaries + metadata)
 
-We **do not** sell personal data.  
-We **do not** run ads.  
-We **do not** track you across other apps.
+Basic profile information (e.g., name, role; organization optional)
 
-To request account/data deletion:  
-📧 **founder@hoplittlebunny.com**
+Interaction signals (e.g., saves, ratings, follows, time spent reading)
 
----
+Generated outputs (e.g., Intelligence Brief summaries + metadata)
 
-## AI usage
+We do not sell personal data.
+We do not run ads.
+We do not track you across other apps.
 
-WorkReads uses AI to:
-- Generate **Intelligence Briefs**
-- Improve clarity and structure
-- Support relevance modeling
+You may delete your account at any time via Profile → Delete Account or by contacting:
 
-AI outputs are **transformations** of publicly available information.  
-Full sources remain accessible via external links.
+📧 founder@hoplittlebunny.com
 
----
+AI Usage
 
-## FAQ
+WorkReads uses AI (including Google Gemini) to:
 
-**Is WorkReads free?**  
+Generate structured Intelligence Brief summaries
+
+Improve clarity and organization
+
+Support relevance modeling
+
+When AI services are used:
+
+Publicly available content text and contextual metadata may be processed
+
+Personal identity information (such as name or email) is not transmitted for summarization
+
+WorkReads does not sell data and does not use personal data to train public AI models
+
+AI-generated summaries are informational and designed to support faster understanding — not professional advice.
+
+FAQ
+
+Is WorkReads free?
 Yes — currently free to use.
 
-**Does WorkReads provide financial/legal/investment advice?**  
+Does WorkReads provide financial, legal, or investment advice?
 No. WorkReads is a reading and decision-support tool, not professional advice.
 
----
+Support
 
-## Support
+📧 founder@hoplittlebunny.com
 
-📧 **founder@hoplittlebunny.com**  
 ⏱ Typical response time: 24–48 hours
-
----
-
-<div align="center">
-
-**WorkReads**  
-Signal, not noise.
 
 </div>
