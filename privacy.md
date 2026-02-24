@@ -1,6 +1,6 @@
 Privacy Policy – WorkReads
 
-Last updated: January 2026
+Last updated: February 2026
 
 WorkReads (“WorkReads”, “we”, “our”, or “us”) is a professional reading intelligence application designed to help professionals access ranked and distilled business insights.
 
@@ -47,11 +47,15 @@ Saves and ratings
 
 Follows
 
+Time spent reading or viewing content
+
 Reading activity patterns
 
 Private notes created within the app
 
-These signals are linked to your account and are used only to refine relevance and improve system performance.
+These signals are linked to your account and are used only to refine relevance scoring and improve system performance.
+
+WorkReads does not use this data for advertising or cross-app tracking.
 
 D. Content Stored by WorkReads
 
@@ -79,7 +83,7 @@ Crash and performance diagnostics
 
 This information is used only to maintain app stability and reliability.
 
-WorkReads does not store IP addresses for tracking purposes.
+WorkReads does not store IP addresses for advertising or behavioral tracking purposes.
 
 2. How We Use Information
 
@@ -111,11 +115,17 @@ Improve content clarity
 
 Support relevance modeling
 
-When AI services are used, content text and contextual relevance signals may be processed.
+When AI services are used:
 
-Personal identity information (such as your name or email) is not intentionally shared with AI providers for summarization purposes.
+Publicly available content text and contextual metadata may be processed
 
-WorkReads does not sell data and does not use personal data to train public AI models.
+Personal identity information (such as name, email address, or profile data) is not transmitted to AI providers for summarization
+
+AI providers do not receive full account profiles
+
+WorkReads does not sell data and does not use personal data to train public AI models
+
+AI-generated content is provided for informational purposes only.
 
 4. Infrastructure & Service Providers
 
@@ -125,7 +135,7 @@ Supabase – secure database and backend infrastructure
 
 Expo – mobile app infrastructure and deployment
 
-Google Gemini AI – content summarization services
+Google Gemini – content summarization services
 
 These providers process data only as necessary to deliver core app functionality.
 
@@ -153,13 +163,19 @@ As necessary to provide functionality
 
 As required to comply with legal obligations
 
-You may request deletion of your account and associated data at any time by contacting:
+Users may delete their account and associated data at any time:
 
-📧 founder@hoplittlebunny.com
+Directly within the app (Profile → Delete Account), or
+
+By contacting 📧 founder@hoplittlebunny.com
+
+Upon deletion, associated personal data is permanently removed from our systems except where retention is legally required.
 
 7. Tracking
 
 WorkReads does not track users across other companies’ apps or websites for advertising purposes.
+
+We do not run advertising networks or behavioral tracking systems.
 
 8. Your Rights
 
