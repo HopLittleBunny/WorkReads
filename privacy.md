@@ -9,7 +9,13 @@ This Privacy Policy explains what information we collect, how we use it, and how
 1. Information We Collect
 A. Account & Authentication
 
-WorkReads supports Sign in with Apple and Sign in with Google.
+WorkReads allows users to create an account using:
+
+Email address and password
+
+Sign in with Google
+
+Sign in with Apple (iOS only)
 
 When you create an account, we may receive:
 
@@ -17,19 +23,19 @@ Email address
 
 Name (if provided by the authentication provider)
 
-If you use Apple’s private relay feature, your email may be anonymized.
+If you use Apple’s private relay feature, your email address may be anonymized.
 
-Passwords are not stored by WorkReads.
+Passwords are securely processed through our authentication provider and are not stored in plain text by WorkReads.
 
 B. Profile Information
 
-To personalize your intelligence stream, you may provide:
+To personalize your intelligence stream, you may optionally provide:
 
 Professional role
 
-Organization (optional)
+Organization
 
-Country (optional)
+Country
 
 This information is used solely to improve content relevance and ranking accuracy.
 
@@ -53,7 +59,13 @@ Reading activity patterns
 
 Private notes created within the app
 
-These signals are linked to your account and are used only to refine relevance scoring and improve system performance.
+These signals are linked to your account and are used only to:
+
+Refine relevance scoring
+
+Improve ranking models
+
+Enhance overall system performance
 
 WorkReads does not use this data for advertising or cross-app tracking.
 
@@ -69,21 +81,11 @@ WorkReads does not store or redistribute full third-party articles as a substitu
 
 Users are provided with a direct external link to read the full article from the original publisher.
 
-E. Diagnostics & Technical Information
+E. Technical & Security Information
 
-We may collect limited technical information such as:
+All data transmitted between your device and our servers is encrypted in transit using secure protocols.
 
-App version
-
-Device type
-
-Operating system version
-
-Crash and performance diagnostics
-
-This information is used only to maintain app stability and reliability.
-
-WorkReads does not store IP addresses for advertising or behavioral tracking purposes.
+WorkReads does not use advertising identifiers and does not track users across third-party apps or websites.
 
 2. How We Use Information
 
@@ -91,11 +93,13 @@ We use collected information to:
 
 Provide core app functionality
 
+Authenticate users and manage accounts
+
 Rank content using Quality, Relevance, and Freshness signals
 
 Personalize your feed
 
-Improve product performance and stability
+Improve product performance
 
 Generate Intelligence Brief summaries
 
@@ -119,11 +123,11 @@ When AI services are used:
 
 Publicly available content text and contextual metadata may be processed
 
-Personal identity information (such as name, email address, or profile data) is not transmitted to AI providers for summarization
+Personal identity information (such as email address or profile data) is not transmitted to AI providers for summarization
 
 AI providers do not receive full account profiles
 
-WorkReads does not sell data and does not use personal data to train public AI models
+WorkReads does not sell data and does not use personal data to train public AI models.
 
 AI-generated content is provided for informational purposes only.
 
@@ -153,7 +157,7 @@ To protect user safety or platform integrity
 
 WorkReads does not share data for advertising purposes.
 
-6. Data Retention
+6. Data Retention & Account Deletion
 
 We retain data:
 
@@ -163,19 +167,41 @@ As necessary to provide functionality
 
 As required to comply with legal obligations
 
-Users may delete their account and associated data at any time:
+Deleting Your Account
 
-Directly within the app (Profile → Delete Account), or
+Users may permanently delete their account and associated data at any time directly within the app:
 
-By contacting 📧 founder@hoplittlebunny.com
+Profile → Delete Account
 
-Upon deletion, associated personal data is permanently removed from our systems except where retention is legally required.
+Upon deletion, the following data is permanently removed:
+
+Email address
+
+Account credentials
+
+Saved articles
+
+Ratings and interaction signals
+
+Reading activity data
+
+Private notes
+
+We do not retain personal data after account deletion, except where retention is required for legal or compliance purposes.
+
+If you experience any difficulty deleting your account, you may contact:
+
+📧 founder@hoplittlebunny.com
 
 7. Tracking
 
-WorkReads does not track users across other companies’ apps or websites for advertising purposes.
+WorkReads does not:
 
-We do not run advertising networks or behavioral tracking systems.
+Run advertising networks
+
+Use behavioral tracking systems
+
+Track users across third-party apps or websites
 
 8. Your Rights
 
